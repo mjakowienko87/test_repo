@@ -344,6 +344,12 @@
 		{
 			return _instructionMc;
 		}
+		
+		
+		public static function newFunction():MovieClip
+		{
+			return new MovieClip();
+		}
 
 
 
