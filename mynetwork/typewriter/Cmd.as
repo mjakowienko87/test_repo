@@ -350,6 +350,12 @@
 		{
 			return new MovieClip();
 		}
+		
+		
+		public static function secondFunction():MovieClip
+		{
+			return new MovieClip();
+		}
 
 
 
